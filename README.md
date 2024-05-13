@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá👋! Eu sou Elaine Cristina. :smile:
+<br>
 
-<!--
-**ElaineCristinap/ElaineCristinap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> - Estudante apaixonada por Tecnologia em transição de carreira para o mundo do Front-End.</p>
+<p> - Comprometida com o aprendizado contínuo e a resolução criativa de problemas!</p>
 
-Here are some ideas to get you started:
+### Proficiente em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+<br/>
+
+### Conecte-se comigo:
+
+<a href="https://www.instagram.com/elayneccristina_/">
+<img align="left" alt="instagram-logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/elaine-cristina-bb08b6252/">
+<img align="left" alt="linkedIn-logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
