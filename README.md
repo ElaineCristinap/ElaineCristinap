@@ -18,6 +18,6 @@
 <a href="https://www.instagram.com/elayneccristina_/">
 <img align="left" alt="instagram-logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/elaine-cristina-bb08b6252/">
+<a href="https://www.linkedin.com/in/elaine-cristina-pereira/">
 <img align="left" alt="linkedIn-logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
